@@ -118,6 +118,7 @@
     <Content Include="js\signin.js" />
     <Content Include="login.html" />
     <Content Include="pricing.html" />
+    <Content Include="planification.html" />
     <Content Include="reports.html" />
     <Content Include="shortcodes.html" />
     <Content Include="signup.html" />
